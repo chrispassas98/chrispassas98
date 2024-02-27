@@ -7,8 +7,8 @@ Historical Researcher/ Data Analyst on the making
 
 ##  Tools of the trade
 
-Programming: Python, SQL, R
-Data viz tools: Tableau, Excel
+- Programming: Python, SQL, R
+- Data viz tools: Tableau, Excel
 
 Media:
 - Email: christospassas98@gmail.com
