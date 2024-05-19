@@ -4,6 +4,7 @@ Historical Researcher/ Data Analyst on the making
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python, SQL, and R.
 - ⚡ Fun fact: I have a Master`s degree in Historical Research
+- 👀 I study Data Science and Machine Learning
 
 ##  Tools of the trade
 
