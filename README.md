@@ -8,7 +8,7 @@ Historical Researcher/ Data Analyst on the making
 
 ##  Tools of the trade
 
-- Programming: Python, SQL, R
+- Programming: Python, SQL, R, Javascript
 - Data viz tools: Tableau, Power Bi, Excel
 
 Media:
