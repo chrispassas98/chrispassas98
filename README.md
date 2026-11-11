@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Christos
-Historical Researcher/ Data Dcientist
+AI Engineer/Low Code Automations Engineer
 
 - 👀 I’m interested in AI, Data Science
 - 🌱 Programming Languages: Python, SQL, Javascript and R.
